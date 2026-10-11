@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "organization": {
+    "name": "Maxima Infotech LLP",
+    "website": "https://erp.maximaplus.in"
+  },
+  "apps": [
+    {
+      "id": "brew-attendance",
+      "name": "Brew Attendance",
+      "packageName": "com.maximaplus.brewattendance",
+      "description": "Brew Attendance simplifies employee attendance and workforce management with location-based workplace verification. Employees can record attendance, track work sessions, manage breaks, and submit leave requests, while administrators manage employees, attendance records, leave approvals, and workplace geofences. Location is used for attendance verification and geofence features, not advertising.",
+      "iconUrl": "https://play-lh.googleusercontent.com/QUdSZhDCj2V4gd5cjCEl-EA8Fa5T1O5-WcM9hXOIFPg17w2b4-mDvXYwh8KJCZOvpTbURuLPyB8y5hwa2cnflw=s0-br30",
+      "website": "https://attedance.maximaplus.in",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.maximaplus.brewattendance",
+        "ios": null
+      },
+      "category": "Workforce Management",
+      "isPublished": true
+    },
+    {
+      "id": "redmarket",
+      "name": "Red Market",
+      "packageName": "com.maximaplus.redmarket",
+      "description": "Red Market helps agricultural importers manage supplier arrivals, bag quantities, logistics, sales transactions, and inventory. It provides lot-wise stock tracking, sales registers, historical records, and printable reports to simplify agricultural trading operations.",
+      "iconUrl": "https://play-lh.googleusercontent.com/uVJT4NPYNxyVuA88_TcXcQEsD06YFfDvTIBw0BGFfTTxuzFUIdjod5GpmO9XMUPBnGwlDqOHoP25imrkbooQH8Q=w240-h480-rw",
+      "website": null,
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.maximaplus.redmarket",
+        "ios": null
+      },
+      "category": "Agricultural Business Management",
+      "isPublished": true
+    },
+    {
+      "id": "maximaplus-otp",
+      "name": "MaximaPlus OTP",
+      "packageName": "com.maximaplus.otp",
+      "description": "MaximaPlus OTP enables authorized administrators and managers to review invoice modification requests from MaximaPlus ERP and retrieve verification codes to approve changes. It provides a centralized approval workflow for businesses using MaximaPlus ERP.",
+      "iconUrl": "https://play-lh.googleusercontent.com/SWBD41j91QWW8LXNc907mV2WGUZm2s0l_xwgL5NTiXfxrUvHC96Huw6ZH2oIsSnKGaSE-cgjpEqvYbCtjT7qkQ=w240-h480-rw",
+      "website": null,
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.maximaplus.otp",
+        "ios": null
+      },
+      "category": "Business Security and Approvals",
+      "isPublished": true
+    },
+    {
+      "id": "gofororder",
+      "name": "GoForOrder",
+      "packageName": "com.maximaplus.gofororder",
+      "description": "GoForOrder streamlines distributor operations with dealer management, inventory tracking, order placement, quantity allocation, and delivery monitoring. It also provides role-based access, stock and order reports, and activity logs for distributors, employees, and approved dealers.",
+      "iconUrl": "https://play-lh.googleusercontent.com/6V_peCAfNEU9a7aBfMa4nlUXrGENGM4J9qYftwEu4lwLwoSMLCv42AwIeae80XjXIm1chtU_gkkyidoDlqZeEgE=w240-h480-rw",
+      "website": null,
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=com.maximaplus.gofororder",
+        "ios": null
+      },
+      "category": "Distribution and Order Management",
+      "isPublished": true
+    }
+  ]
+}
